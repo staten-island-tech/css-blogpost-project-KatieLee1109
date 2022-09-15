@@ -1,8 +1,23 @@
 body{
     background-color: papayawhip;
-    color: seashell;
-    font-size: 30px;
+
+h1{
+    font: 30px;
+}   
+
+h2{
+    font: 25px;
+}
+h4{
+    font: 20px;
+}
+h5{
+    font: 20px;
+}
+h6{
+    font: 20px;
 }
 h1{
-    color:black;
+    color: black;
 }
+
