@@ -1,5 +1,28 @@
 body{
-    background: lightgray;
-    margin-top: 10px;
-    .class border: 3px black;
+    background-color: aliceblue;
+    color: black;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+
 }
+.header{
+    color: black;
+    text-align: center;
+    background-color: aliceblue;
+    margin: 45px auto;
+    padding: 25px auto;
+
+}
+
+.pets{
+    color: black;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.background{
+    background-color: aliceblue;
+    text-align: center;
+    margin: 25px auto;
+}
+
