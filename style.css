@@ -2,27 +2,29 @@ body{
     background-color: aliceblue;
     color: black;
     font-size: 40px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Lora', serif;
 
 }
 .header{
     color: black;
     text-align: center;
-    background-color: aliceblue;
-    margin: 45px auto;
-    padding: 25px auto;
-
+    background-color:  rgb(127, 158, 245);
+    margin: 30px auto;
+    padding: 10px auto;
+    font-size: 40px;
 }
 
 .pets{
     color: black;
     text-align: center;
-    background-color: aliceblue;
+    background-color:  rgb(127, 158, 245);
+    font-size: 30px;
 }
 
 .background{
-    background-color: aliceblue;
+    background-color:  rgb(192, 210, 243);
     text-align: center;
     margin: 25px auto;
+    font-size: 20px;
 }
 
