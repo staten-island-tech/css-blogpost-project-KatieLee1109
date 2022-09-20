@@ -8,10 +8,10 @@ body{
 .header{
     color: black;
     text-align: center;
-    background-color:  rgb(127, 158, 245);
     margin: 30px auto;
     padding: 10px auto;
     font-size: 40px;
+    border: 4px rgb(127, 158, 245);
 }
 
 .pets{
