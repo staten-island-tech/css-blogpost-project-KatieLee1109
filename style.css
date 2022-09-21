@@ -9,22 +9,45 @@ body{
     color: black;
     text-align: center;
     margin: 30px auto;
-    padding: 10px auto;
+    padding: 20px auto;
     font-size: 40px;
-    border: 4px rgb(127, 158, 245);
+    background-color: rgb(165, 191, 250);
 }
 
 .pets{
     color: black;
     text-align: center;
-    background-color:  rgb(127, 158, 245);
     font-size: 30px;
+    padding: 10px auto;
+    background-color: rgb(141, 183, 236);
 }
 
-.background{
-    background-color:  rgb(192, 210, 243);
+.cat{
     text-align: center;
-    margin: 25px auto;
+    background-color: aliceblue;
     font-size: 20px;
+}
+.dog{
+    text-align: center;
+    font-size: 20px;
+}
+.hamster{
+    text-align: center;
+    font-size: 20px;
+}
+.dogsize{
+    width: 80vh;
+    height: 55vh;
+}
+.hamstersize{
+    width: 80vh;
+    height: 45vh;
+}
+.catsize{
+    width: 80vh;
+    height: 55vh;
+}
+.link{
+    text-align: center;
 }
 
